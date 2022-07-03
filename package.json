@@ -13,6 +13,7 @@
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
     "framer-motion": "^6.3.11",
     "install-peers-cli": "^2.2.0",
     "millify": "^4.0.0",
